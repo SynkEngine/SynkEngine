@@ -31,6 +31,8 @@ What we work on, and write about on [LinkedIn](https://www.linkedin.com/company/
 - **Mutation tests, soak tests and adversarial reviews.**
 - **Built in Mauritius** by one person working with two AI models.
 
+**The articles:** [It learns your phones, not your habits](LEARNING-MODEL.md), the learning model inside SynkEngine: ten numbers that decide what to believe, three memories that never leave the party, and why that beat a neural network on the arithmetic (15 min).
+
 ## How it works, for engineers
 
 <p align="center">
