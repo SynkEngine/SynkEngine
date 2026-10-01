@@ -9,6 +9,12 @@
 - **Alpha:** 11/11 at 11:11 · **Official launch:** 12/12 at 12:12 (Mauritius, GMT+4)
 - **The first 108 requests get lifetime access, free:** [synkengine.com](https://synkengine.com/?ref=github)
 
+## 🎤 Karaoke Mode is out
+
+<a href="https://youtu.be/rfW2XavS0_g"><img src="youtube-thumbnail-karaoke-1280x720.jpg" alt="Karaoke Mode, your phone is the mic: Coco the dog sings into his phone and Mimi the cat holds hers, both marked LIVE, in a karaoke room with lyrics on the big screen and their friends on the sofa. Pass the mic, sing a duet." width="100%"></a>
+
+Your phone is the mic. Every other phone in the room is the speaker, and the voice and the song play in sync on all of them. Pass the mic, sing a duet, and the lyrics follow on the big screen. The 46-second film: [on YouTube](https://youtu.be/rfW2XavS0_g) · [the page, with the transcript](https://synkengine.com/karaoke/?ref=github) · [the Short](https://youtube.com/shorts/K5O9wmlc30M)
+
 ## Our official links
 
 Please be careful of scammers. We use the same name everywhere: **synkengine**. Anything else isn't us.
