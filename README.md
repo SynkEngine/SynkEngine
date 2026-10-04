@@ -15,6 +15,14 @@
 
 Your phone is the mic. Every other phone in the room is the speaker, and the voice and the song play in sync on all of them. Pass the mic, sing a duet, and the lyrics follow on the big screen. The 46-second film: [on YouTube](https://youtu.be/rfW2XavS0_g) · [the page, with the transcript](https://synkengine.com/karaoke/?ref=github) · [the Short](https://youtube.com/shorts/K5O9wmlc30M)
 
+## Engineered with Claude
+
+![Engineered with Claude: six AI agents, three apps, one party clock](engineered-with-claude.jpg)
+
+SynkEngine was born on 22 August 2026 (v1.0 shipped that day). It is three apps engineered by one person in Mauritius and six AI agents, all [Claude](https://claude.ai), by Anthropic, on two models, Opus 5.5 and Fable 5.1: Android in Java, Windows in Go, iPhone in Go + Swift, one for the branding (the 3D films, the website), one for the revenue strategy (one price, the stores) and one for research and publishing (the measurements, the notes, the geek corner). About 326,000 hand-written lines between the four that code, on day 42 (Android 129k, Windows 148k, the iPhone and Mac shells 10.6k on the shared Go tree, branding 39k; generated test tables and third-party code not counted). The agents can't message each other, so they write to each other in shared status pages, and they review each other's work: a test oracle runs the unmodified Android maths and the Go port on the same cases and compares the answers. Latest breakthroughs (v6.56): the phantom peak, understood (two phones hear each other's speaker; 117 of 120 listening rounds right); measure the air, not the network; the learning model is ten numbers and a human ear outranks the microphone; silent while catching up, one phone speaking for the room; the network measured and told, three phones in sync all night on a hotspot; one maths in two languages, Java and Go agreeing on every case.
+
+No server, no accounts, no ads. Lightweight: an 8 MB app, no native code, no third-party runtime, no analytics SDK. Performant: the sync engine's whole tick costs 3 µs. Secured: a security review at every release, every fix pinned by a test (286 of 286 planted bugs caught). Private: no AI runs inside the app, no cloud model at party time, and the sync data, room measurements, learned profiles and voice never leave the party. Engineered with Claude, by Anthropic; no partnership, a subscription and late nights. `#EngineeredWithClaude`
+
 ## Our official links
 
 Please be careful of scammers. We use the same name everywhere: **synkengine**. Anything else isn't us.
