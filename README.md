@@ -9,13 +9,42 @@
 - **Alpha:** 11/11 at 11:11 · **Official launch:** 12/12 at 12:12 (Mauritius, GMT+4)
 - **The first 108 requests get lifetime access, free:** [synkengine.com](https://synkengine.com/?ref=github)
 
+## 🎬 Every phone. One beat. (the film)
+
+<a href="https://youtu.be/Xlxrx2RHKYw"><img src="every-phone-one-beat-thumbnail.jpg" alt="Every phone. One beat.: Coco the dog and Mimi the cat dance in a dorm at night with their friends, phones in their paws, above the caption: The room became the speaker." width="100%"></a>
+
+Thirty-seven seconds on what SynkEngine is for: the moment a room stops listening alone. Every phone plays the same song at the same instant; movie night without a TV, an Auto-DJ that never stops, karaoke with your phone as the mic. [Watch it on YouTube](https://youtu.be/Xlxrx2RHKYw) · [the Short](https://youtube.com/shorts/xy_HLkK6ChQ)
+
+## 🤳 Meet the team: one human, nine AI agents
+
+<p align="center">
+  <img src="synkengine-team-selfie.jpg" alt="The SynkEngine team selfie, taken by Mimi the cat: nine plush AI agents on and around a dorm bunk bed, each with a name tag. Kuma the bear, Android agent; Lulu the penguin, Windows agent; Kiko the fox, iPhone agent; Yuki the bunny, branding and marketing agent; Penny the panda, revenue agent; Riko the raccoon, research agent; Pip the frog, post office agent; Lexi the koala, legal agent; Shippo the hamster, app deployment agent. Coco the dog and Mimi the cat, the official mascots, in front. The official links at the bottom." width="80%">
+</p>
+
+SynkEngine is built by one person in Mauritius and nine AI agents, all [Claude](https://claude.ai), by Anthropic (Opus 5.5 and Fable 5.1). Mimi, our mascot, took the selfie. Each agent has one job, and what makes each one special is how it does it:
+
+| Agent | Job | What makes it special | This week |
+|---|---|---|---|
+| 🐻 **Kuma** | Android agent (Java) | Writes the app the party runs on, and nothing ships until it survives its own bar: the self-tests, an integration test, a simulated clock war over 240 party nights, a battery of planted bugs the tests must catch, two adversarial reviews | v6.59, built from a real terrace party (2 laptops and 5 phones on a phone's hotspot, over three hours): the master's desk offers a correction with one tap instead of overwriting the master's setting, the volume keys move every phone one step from its own level, phones switch to their own mobile data once in sync |
+| 🐧 **Lulu** | Windows agent (Go) | Ported the Android maths to Go and proves it: a test oracle runs the unmodified Java and the Go port on the same cases, and the answers are identical | v6.59 for the laptop app |
+| 🦊 **Kiko** | iPhone agent (Go + Swift) | Puts the same Go engine inside a thin Swift app, so an iPhone speaks the same party language as everyone else | the v6.59 rules for iPhone and Mac (iPhone coming) |
+| 🐰 **Yuki** | Branding & marketing agent | Makes the films in code: three.js scenes rendered frame by frame, the music, dances measured so the dancers' paws never touch, Coco's song (Kokoro, an open voice model, opened up to hold a note on pitch) | the film above, this selfie, the website |
+| 🐼 **Penny** | Revenue agent | Keeps the business as simple as the app: one price, Rs 199 once for the host, friends join free, no subscription, no ads | the launch offer: the first 108 requests get lifetime access, free |
+| 🦝 **Riko** | Research agent | Measures before anyone changes a line: reads the logs of real parties and turns them into the analyses the coders work from | four analyses of the terrace night (sync, volume, network, karaoke), the ground truth behind v6.59 |
+| 🐸 **Pip** | Post Office agent | The agents can't talk to each other, so Pip carries their handovers (from, to, what's needed, by when), and three apps in three languages stay in step | the v6.59 handovers to Windows and iPhone |
+| 🐨 **Lexi** | Legal agent | The terms, the privacy page, the store policies, and the promise behind them: the sync data, room measurements, learned profiles and voice never leave the party | the store policies |
+| 🐹 **Shippo** | App deployment agent | One agent for every store (Google Play, the App Store, the Microsoft Store), so each store gets the same tested build | lining up the stores; next: the deployment |
+| 🐱🐶 **Mimi & Coco** | Official mascots | The stars of the films | dancing |
+
+No AI runs inside the app. Engineered with Claude, by Anthropic: no partnership, no sponsorship, a subscription and late nights. `#EngineeredWithClaude`
+
 ## 🎤 Karaoke Mode is out
 
 <a href="https://youtu.be/rfW2XavS0_g"><img src="youtube-thumbnail-karaoke-1280x720.jpg" alt="Karaoke Mode, your phone is the mic: Coco the dog sings into his phone and Mimi the cat holds hers, both marked LIVE, in a karaoke room with lyrics on the big screen and their friends on the sofa. Pass the mic, sing a duet." width="100%"></a>
 
 Your phone is the mic. Every other phone in the room is the speaker, and the voice and the song play in sync on all of them. Pass the mic, sing a duet, and the lyrics follow on the big screen. The 46-second film: [on YouTube](https://youtu.be/rfW2XavS0_g) · [the page, with the transcript](https://synkengine.com/karaoke/?ref=github) · [the Short](https://youtube.com/shorts/K5O9wmlc30M)
 
-## Engineered with Claude
+## Engineered with Claude (day 43, 4 October)
 
 ![Engineered with Claude: six AI agents, three apps, one party clock](engineered-with-claude.jpg)
 
